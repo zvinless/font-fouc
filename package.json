@@ -14,5 +14,8 @@
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "typeface-pattaya": "^0.0.54"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
